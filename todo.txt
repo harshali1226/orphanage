@@ -1,0 +1,16 @@
+1.fix register page-done
+2.Profile thing after login
+3. welcome thing align after login
+4. Edit footer info-done
+5. Remove extra donate,adopt,volunteer-done
+6. send request for donation/sponsor-
+7. show it in admin.php
+8. add children dynamically. (trial- for loop implemented in /children.php)
+
+
+
+
+
+
+
+
